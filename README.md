@@ -1,4 +1,8 @@
 🧠 Multi-Modal AI System for Parkinson's Disease Detection
+🚀 Live Demo
+
+You can interact with the live, deployed version of this application here:
+Try the App on Streamlit Cloud
 
 📖 Project Overview  
 This project presents a web-based system designed for early-stage screening of Parkinson's Disease (PD) using advanced **Deep Learning models**.  

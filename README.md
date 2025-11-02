@@ -137,8 +137,8 @@ Ensure you have Python 3.8+ installed.
 Steps to Run
 1.Clone the repository or download the project files:
    ```bash
-   git clone https://github.com/<your-username>/parkinsons-multimodal-ai.git
-   cd parkinsons-multimodal-ai
+   git clone https://github.com/ananyadas268/Multi-Modal-System-for-Parkinson-s-Detection-Handwriting-Voice-Analysis-
+   cd Multi-Modal-System-for-Parkinson-s-Detection-Handwriting-Voice-Analysis-
 
 2. Place the models in the same directory as app.py
     spiral_model_78_91_acc.keras
